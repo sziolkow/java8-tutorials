@@ -5,9 +5,9 @@ package org.home.sziolkow.filtering;
  */
 public class Apple {
 
-    private String color;
+    private final String color;
 
-    private int weight;
+    private final int weight;
 
     public String getColor() {
         return color;
@@ -15,5 +15,10 @@ public class Apple {
 
     public int getWeight() {
         return weight;
+    }
+
+    public Apple(String color, int weight) {
+        this.color = color;
+        this.weight = weight;
     }
 }
