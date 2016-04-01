@@ -1,6 +1,4 @@
-package org.home.sziolkow.filtering.attempt1;
-
-import org.home.sziolkow.filtering.Apple;
+package org.home.sziolkow.filtering;
 
 import java.util.ArrayList;
 import java.util.List;

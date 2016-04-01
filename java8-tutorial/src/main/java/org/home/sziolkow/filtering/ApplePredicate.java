@@ -1,6 +1,4 @@
-package org.home.sziolkow.filtering.attempt1;
-
-import org.home.sziolkow.filtering.Apple;
+package org.home.sziolkow.filtering;
 
 /**
  * Created by slawomir.ziolkowski on 31.03.2016.
